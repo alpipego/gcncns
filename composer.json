@@ -9,5 +9,8 @@
             "email": "alpipego@gmail.com"
         }
     ],
+    "require-dev": {
+        "wp-hibou/di": "^0.2.2"
+    },
     "require": {}
 }
