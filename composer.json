@@ -1,0 +1,13 @@
+{
+    "name": "alpipego/gcnsnc",
+    "description": "Create WP Plugins without creating conflicts with other third party libs",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alpipego",
+            "email": "alpipego@gmail.com"
+        }
+    ],
+    "require": {}
+}
