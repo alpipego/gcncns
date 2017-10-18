@@ -83,3 +83,6 @@ You will have to change the namespace and directories to fit your setup, find th
 
 ## Run it
 Running it is as simple as `grunt thirdParty` after packages have been installed. This could also go into a composer script, e.g., `post-update-cmd`.
+
+## Install with IoC-Container
+If you check out the [`with-ioc`](https://github.com/alpipego/gcncns/tree/with-ioc), you'll get a dependency injection container that you can use.
