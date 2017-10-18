@@ -80,3 +80,6 @@ $loader->register();
 ```
 
 You will have to change the namespace and directories to fit your setup, find the documentation for the [`ClassLoader` here](https://getcomposer.org/apidoc/1.3.0/Composer/Autoload/ClassLoader.html).
+
+## Run it
+Running it is as simple as `grunt thirdParty` after packages have been installed. This could also go into a composer script, e.g., `post-update-cmd`.
