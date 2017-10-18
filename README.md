@@ -86,3 +86,7 @@ Running it is as simple as `grunt thirdParty` after packages have been installed
 
 ## Install with IoC-Container
 If you check out the [`with-ioc`](https://github.com/alpipego/gcncns/tree/with-ioc), you'll get a dependency injection container that you can use.
+
+```
+composer create-project "alpipego/gcncns:dev-with-ioc" ./PLUGIN_NAME
+```
