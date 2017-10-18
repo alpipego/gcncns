@@ -1,5 +1,5 @@
 {
-    "name": "alpipego/gcnsnc",
+    "name": "alpipego/gcncns",
     "description": "Create WP Plugins without creating conflicts with other third party libs",
     "type": "project",
     "license": "MIT",
